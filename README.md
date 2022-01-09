@@ -9,3 +9,5 @@ This is an repository for storring new algorithms that I am learning form the Le
 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ([python](./python/roman_to_integer.py), [cpp](./cpp/roman_to_integer.cpp))
 
 14. [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) ([python](./python/longest_common_prefix.py), [cpp](./cpp/longest_common_prefix.cpp))
+
+20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  ([python](./python/valid_parentheses.py), [cpp](./cpp/valid_parentheses.cpp))
